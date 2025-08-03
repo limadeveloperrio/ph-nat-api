@@ -1,0 +1,11 @@
+app:
+  security:
+    user:
+      name: ${APP_USER:admin}
+      password: ${APP_PASSWORD:12345}
+
+    jwt:
+      header: Authorization
+      prefix: Bearer
+      secret: 5eebb082-4046-4d7f-a638-3c16d9dec4f8
+
