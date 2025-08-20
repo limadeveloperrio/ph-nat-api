@@ -8,11 +8,11 @@
 		<version>3.5.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.natixi</groupId>
-	<artifactId>ph-natixis-api</artifactId>
+	<groupId>com.nat</groupId>
+	<artifactId>ph-nat-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ph-natixis-api</name>
-	<description>ProductHub API for Natixis fullstack assessment</description>
+	<name>ph-nat-api</name>
+	<description>ProductHub API for Nat fullstack assessment</description>
 	<url/>
 	<licenses>
 		<license/>
